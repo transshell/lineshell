@@ -934,3 +934,5 @@ $file_name = dirname(__FILE__);
 file_put_contents('write_check_class.txt', $file_name . ':::befor check class');
 /*Ending*/
 /*confirm:end of editor file*/
+
+?>
